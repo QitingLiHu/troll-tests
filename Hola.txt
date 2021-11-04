@@ -1,8 +1,1 @@
-assdc
-dfdvdfdf
-f
-vd
-fv
-dfv
-df
-vdf
+Hola, esto es un fichero de texto para probar git
